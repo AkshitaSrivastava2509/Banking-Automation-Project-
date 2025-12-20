@@ -1,0 +1,14 @@
+00:13:11.558 [main] INFO  tests.LoginPageTest.invalidLoginTest(LoginPageTest.java:43)logger - Starting Invalid Login Test
+00:13:12.070 [main] INFO  tests.LoginPageTest.invalidLoginTest(LoginPageTest.java:47)logger - User or Password is not valid
+00:13:12.079 [main] INFO  tests.LoginPageTest.invalidLoginTest(LoginPageTest.java:50)logger - Invalid Login Test Passed
+00:13:14.226 [main] INFO  tests.LoginPageTest.invalidLoginTest(LoginPageTest.java:43)logger - Starting Invalid Login Test
+00:13:15.296 [main] INFO  tests.LoginPageTest.invalidLoginTest(LoginPageTest.java:47)logger - User or Password is not valid
+00:13:15.307 [main] INFO  tests.LoginPageTest.invalidLoginTest(LoginPageTest.java:50)logger - Invalid Login Test Passed
+00:13:17.577 [main] INFO  tests.LoginPageTest.invalidLoginTest(LoginPageTest.java:43)logger - Starting Invalid Login Test
+00:13:18.363 [main] INFO  tests.LoginPageTest.invalidLoginTest(LoginPageTest.java:47)logger - User or Password is not valid
+00:13:18.369 [main] INFO  tests.LoginPageTest.invalidLoginTest(LoginPageTest.java:50)logger - Invalid Login Test Passed
+00:13:20.642 [main] INFO  tests.LoginPageTest.validLoginTest(LoginPageTest.java:27)logger - Starting Valid Login Test
+00:13:21.135 [main] INFO  tests.LoginPageTest.validLoginTest(LoginPageTest.java:29)logger - Login successful, checking HomePage title
+00:13:21.530 [main] INFO  tests.LoginPageTest.validLoginTest(LoginPageTest.java:32)logger - HomePage title : Guru99 Bank Manager HomePage
+00:13:21.530 [main] INFO  tests.LoginPageTest.validLoginTest(LoginPageTest.java:33)logger - Success Login Text:- Manger Id : mngr650523
+00:13:21.530 [main] INFO  tests.LoginPageTest.validLoginTest(LoginPageTest.java:36)logger - Valid Login Test Passed
