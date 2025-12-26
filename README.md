@@ -29,6 +29,8 @@ The framework is designed following real-world SDET best practices, making it su
 
 ## 📂 Automation Framework Architecture
 
+![Framework](https://github.com/AkshitaSrivastava2509/Banking-Automation-Project-/blob/c2a3137182d74349421415e14bfa3332faea7abf/POM.png)
+
 ## 🧪 Automated Test Scenarios
 # ✅ Positive Test Case
    Valid Login Scenario\
